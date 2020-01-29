@@ -1,0 +1,4 @@
+export enum authSessionActionTypes {
+    AUTH_SET_USER = "AUTH_SET_USER",
+    AUTH_SET_IS_AUTH_INITIALIZED = "AUTH_SET_IS_AUTH_INITIALIZED",
+};
